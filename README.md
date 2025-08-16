@@ -1,4 +1,4 @@
-# Creaciónde una máquina virtal en Azure.
+# Creación de una máquina virtal en Azure.
 
 Se crea una máquina virtual para la consigna del desafío en el resource group rg-jelseser.
 
